@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaceDetector</string>
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"http://127.0.0.1:8887\",\n  }\n}]</string>
+</resources>
